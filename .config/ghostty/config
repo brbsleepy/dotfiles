@@ -1,0 +1,7 @@
+
+background-opacity = 0.85
+background-blur = 20
+font-size = 14
+theme = dark: Catppuccin Frappe, light: Catppuccin Latte
+quit-after-last-window-closed = true
+

@@ -1,0 +1,24 @@
+[alias]
+  a = add
+  cl = clone
+  cm = commit
+  co = checkout
+  cp = cherry-pick
+  d = diff
+  f = fetch
+  pl = pull
+  ps = push
+  rb = rebase
+  rs = restore
+  s = status
+
+[core]
+  editor = nvim
+
+[init]
+  defaultBranch = main
+
+[user]
+  name = brbsleepy
+  email = brbsleepy@afkparty.dev
+
