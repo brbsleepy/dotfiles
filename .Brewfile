@@ -2,6 +2,8 @@
 brew "bat"
 # Resource monitor. C++ version and continuation of bashtop and bpytop
 brew "btop"
+# New way of working with Protocol Buffers
+brew "buf"
 # Console Matrix
 brew "cmatrix"
 # Load/unload environment variables based on $PWD
@@ -18,6 +20,8 @@ brew "git"
 brew "go"
 # Stricter gofmt
 brew "gofumpt"
+# Language server for the Go language
+brew "gopls"
 # Lightweight and flexible command-line JSON processor
 brew "jq"
 # Language Server for the Lua language
@@ -32,6 +36,10 @@ brew "neovim"
 brew "ouch"
 # Swiss-army knife of markup format conversion
 brew "pandoc"
+# Go support for Google's protocol buffers
+brew "protoc-gen-go"
+# Protoc plugin that generates code for gRPC-Go clients
+brew "protoc-gen-go-grpc"
 # Search tool like grep and The Silver Searcher
 brew "ripgrep"
 # Generate type safe Go from SQL
@@ -56,6 +64,8 @@ cask "docker-desktop"
 cask "firefox"
 # Terminal emulator that uses platform-native UI and GPU acceleration
 cask "ghostty"
+# Web browser
+cask "google-chrome"
 # Discover, download, and run local LLMs
 cask "lm-studio"
 # Knowledge base that works on top of a local folder of plain text Markdown files
@@ -66,3 +76,5 @@ vscode "catppuccin.catppuccin-vsc"
 vscode "github.copilot"
 vscode "github.copilot-chat"
 vscode "golang.go"
+vscode "ms-azuretools.vscode-containers"
+vscode "ms-vscode-remote.remote-containers"
