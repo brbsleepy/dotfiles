@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "7509c7e25071eec9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e8f1ff3585ec3ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b989fd6391e18a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20251126100648-journal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251126100648-journal"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "121d2d8525bb4eac",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab0271368b9a0750",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66a747caa43bda51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ae247d40c7b19b86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fa92aec5756f077f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6cae94a0f942e38",
+    "type": "split",
+    "children": [
+      {
+        "id": "d77cb60bb5908282",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad88cfce0b76071d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "ada46d24d50c4861",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "7f159ea06c94f634",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dacc09daa508ee28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "bases:Create new base": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "3b989fd6391e18a6",
+  "lastOpenFiles": [
+    "permanent/20251126100909-erase-your-darlings.md",
+    "permanent/20251125184425-budget.md",
+    "20251126100648-journal.md",
+    "permanent/20251125170750-journal.md",
+    "permanent/20251109010519-jungyoons-car-info.md",
+    "permanent/20251110165235-john-quotes.md",
+    "20251109011031-journal.md",
+    "templates/zettelkasten-template.md",
+    "20251109010726-.md",
+    "00-source-template.md",
+    "20251109010508.md",
+    "20251109-journal.md",
+    "20251109010429-journal.md",
+    "20251109010447.md",
+    "20251110-journal.md",
+    "20251111-.md",
+    "Welcome.md",
+    "20251112-.md",
+    "20251114-.md",
+    "20251113-.md",
+    "20251109-004904-.md",
+    "20251109-004824-.md",
+    "20251109-004803-.md",
+    "20251109-004630-.md",
+    "20251109-004620-.md",
+    "20251109-004310-.md",
+    "permanent",
+    "templates",
+    "Untitled.canvas",
+    "Untitled.base",
+    "10-sources/14-products",
+    "10-sources/13-books",
+    "10-sources/12-videos",
+    "10-sources/11-articles",
+    "30-reflections",
+    "20-thoughts",
+    "10-sources"
+  ]
+}

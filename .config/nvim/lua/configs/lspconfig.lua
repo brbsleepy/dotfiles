@@ -1,7 +1,7 @@
 require("nvchad.configs.lspconfig").defaults()
 
 local servers = {
-  "lua-language-server",
+  "lua_ls",
   "gopls",
 }
 vim.lsp.enable(servers)
